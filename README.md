@@ -52,3 +52,7 @@ The answer key is as follows:
 1. Fork this repo.
 2. Complete & commit your solution.
 3. Create a pull request to our repo.
+
+# To Run
+
+1. Download the WordSearch.exe and run.
